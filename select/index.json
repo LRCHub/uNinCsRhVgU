@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "今宵はHalloween Night!",
+  "base_artist": "hololive IDOL PROJECT",
+  "createdAt": "2026-01-07T05:32:45.017301Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "今宵はHalloween Night! - Bouquet ver.",
+      "artist": "hololive IDOL PROJECT",
+      "has_synced": true,
+      "path": "select/01_今宵はHalloween_Night!_-_Bouquet_ver._hololive_IDOL_PROJECT.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "今宵はHalloween Night!",
+      "artist": "hololive IDOL PROJECT",
+      "has_synced": true,
+      "path": "select/02_今宵はHalloween_Night!_hololive_IDOL_PROJECT.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "今宵はHalloween Night!",
+      "artist": "hololive IDOL PROJECT",
+      "has_synced": false,
+      "path": "select/pl_01_今宵はHalloween_Night!_hololive_IDOL_PROJECT.txt"
+    }
+  ]
+}
